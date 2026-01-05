@@ -1,0 +1,34 @@
+{
+    "lane_1": {
+        "Cars": 13,
+        "Motorcycles": 0,
+        "Trucks": 6,
+        "Ambulance": 0,
+        "Emergency": "No",
+        "Green_Time": 28
+    },
+    "lane_2": {
+        "Cars": 17,
+        "Motorcycles": 1,
+        "Trucks": 2,
+        "Ambulance": 0,
+        "Emergency": "No",
+        "Green_Time": 27
+    },
+    "lane_3": {
+        "Cars": 18,
+        "Motorcycles": 3,
+        "Trucks": 5,
+        "Ambulance": 0,
+        "Emergency": "No",
+        "Green_Time": 34
+    },
+    "lane_4": {
+        "Cars": 16,
+        "Motorcycles": 0,
+        "Trucks": 3,
+        "Ambulance": 0,
+        "Emergency": "No",
+        "Green_Time": 30
+    }
+}
